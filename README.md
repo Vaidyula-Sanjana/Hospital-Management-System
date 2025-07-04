@@ -1,2 +1,2 @@
 # Hospital-Management-System
-A full-stack Hospital Management System using Python, Streamlit, and SQLite, designed for Tier-2 healthcare efficiency, It includes modules for patient flow, bed &amp; inventory tracking, diagnostics, and AI-assisted medical support.
+A full-stack Hospital Management System built using Python, Streamlit, and SQLite, designed to improve operational efficiency in Tier-2 healthcare settings. It includes modules for patient flow, bed and inventory tracking, diagnostics, and AI-assisted medical support. The system features a secure role-based login for admins and staff with session persistence, and an interactive analytics dashboard that provides real-time insights into daily hospital operations
